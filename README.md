@@ -12,7 +12,7 @@ The main keypoints are:
 - Compatibility with the VICON-System ( https://www.vicon.com/ ) for indoor navigation
 - Usability with a "cable copter" power system for long indurance indoor testing
 - External wireless telemetry module
-- Printable frame parts, optimized for SLS printing
+- Printable frame parts, optimized for SLS printing (PA12)
 - Mainly off the shelf electronics 
 - 2 - 4s power system
 

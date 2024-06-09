@@ -11,6 +11,7 @@ The main keypoints are:
 - Usability with a "cable copter" power system for long indurance indoor testing
 - External wireless telemetry module
 - Printable frame parts, optimized for SLS printing (PA12)
+- Most parts can be printed on an FDM printer as well (like in PLA-CF)
 - Mainly off the shelf electronics 
 - 2s - 4s power system
 

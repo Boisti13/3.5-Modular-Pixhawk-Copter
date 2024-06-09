@@ -18,4 +18,3 @@ The project will be defided in the following main categories
 1. Parts lists
 2. CAD files (.3mf , .step , .igs)
 3. Arducopter paramters
-4. 

@@ -1,0 +1,1 @@
+For basic flying setup:

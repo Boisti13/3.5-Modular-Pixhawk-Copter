@@ -12,7 +12,7 @@ The main keypoints are:
 - External wireless telemetry module
 - Printable frame parts, optimized for SLS printing (PA12)
 - Mainly off the shelf electronics 
-- 2 - 4s power system
+- 2s - 4s power system
 
 The project will be defided in the following main categories
 1. Parts lists

@@ -1,8 +1,6 @@
 # 3.5-Modular-Pixhawk-Copter
 3.5" Modular Ardupilot Pixhawk Quadcopter
 
-My goal is to develop a modular, 3.5" quadcopter for research. 
-
 The main keypoints are:
 
 - Easily replaceable frame parts
